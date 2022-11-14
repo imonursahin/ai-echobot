@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-action-button": "^2.8.5",
+    "react-native-vector-icons": "^9.2.0",
+    "tailwindcss-react-native": "^1.7.10"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
