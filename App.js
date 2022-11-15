@@ -1,9 +1,7 @@
 import React from 'react';
-import {SafeAreaView, Text} from 'react-native';
-import ChatBot from './lib/views/chat/chat';
-
+import Chat from './lib/views/chat/chat';
 const App = () => {
-  return <ChatBot />;
+  return <Chat />;
 };
 
 export default App;
