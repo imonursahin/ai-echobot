@@ -18,21 +18,21 @@ git clone https://github.com/imonursahin/ai-echobot.git
 
 Follow the steps below to start the project
 
-1. Installing packages.
+### 1- Installing packages.
 
 ```bash
 npm install
 ```
 
-2. Run the app
+### 2- Run the app
 
-2.1) run in emulator
+2.1 run in emulator
 
 ```bash
 npx react-native run-android
 ```
 
-2.2) run via adb on your device
+2.2 run via adb on your device
 
 ```bash
 npx react-native run-android --deviceId="xxx:5555"
